@@ -163,7 +163,7 @@
    * Clients Slider
    */
   new Swiper('.hero-slider', {
-    speed: 1000,
+    speed: 500,
     loop: true,
     effect: 'fade',
     autoplay: {
@@ -176,7 +176,7 @@
    * Clients Slider
    */
   new Swiper('.clients-slider', {
-    speed: 400,
+    speed: 200,
     loop: true,
     autoplay: {
       delay: 5000,
